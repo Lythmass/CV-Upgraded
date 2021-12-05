@@ -1,0 +1,128 @@
+body {
+     margin: 0;
+     text-align: center;
+     font-family: 'M PLUS 1 Code', sans-serif;
+}
+
+a {
+     color: #88304E;
+}
+
+a:hover {
+     color: white;
+}
+
+p {
+     font-size: 1.5rem;
+     line-height: 2;
+}
+
+hr {
+     border-style: dotted none none;
+     width: 5%;
+     border-width: 10px;
+     border-color: #E6E6E6;
+     margin: 100px auto;
+}
+
+h1 {
+     color: #810034;
+     margin: 50px auto 0 auto;
+     font-family: 'Niconne', cursive;
+     font-size: 5.625rem;
+}
+
+h2 {
+     color: #DA0037;
+     font-weight: normal;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 2rem;
+}
+
+h3 {
+     color: #DA0037;
+     font-family: 'Montserrat', sans-serif;
+}
+
+.TopBox {
+     background-color: #E23E57;
+     position: relative;
+     padding-top: 100px;
+}
+
+.BottomBox {
+     padding: 50px 0 25px;
+     background-color: #E23E57;
+     margin-top: 100px;
+}
+
+.TopCloud {
+     position: absolute;
+     right: 600px;
+     top: 50px;
+}
+
+.BottomCloud {
+     position: absolute;
+     left: 500px;
+     top: 300px;
+}
+
+.skill-row {
+     width: 50%;
+     margin: 100px auto;
+     text-align: left;
+     overflow: auto;
+}
+
+.king {
+     width: 20%;
+     padding-top: 30px;
+}
+
+.coding {
+     width: 30%;
+     float: left;
+}
+
+.gamedev {
+     width: 25%;
+     float: right;
+}
+
+.chess {
+     width: 25%;
+     float: left;
+}
+
+.btn {
+     background: linear-gradient(#E23E57, #88304E);
+     border-radius: 8px;
+     padding: 10px 30px;
+     text-decoration: none;
+     color: white;
+     font-size: 200%;
+     position: relative;
+     top: 45px;
+}
+
+.btn:hover {
+     background: linear-gradient(#e0556a, #a34062);
+     text-decoration: none;
+}
+
+.footer-link {
+     text-decoration: none;
+     font-size: 32px;
+     margin: 0 50px;
+}
+
+.intro {
+     width: 30%;
+     margin: 0 auto;
+}
+
+.suggestion {
+     width: 30%;
+     margin: 0 auto;
+}
